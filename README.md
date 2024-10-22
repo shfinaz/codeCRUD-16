@@ -1,3 +1,7 @@
+# Project description:
+
+I used db.json as my database API. I used ngModule and remove the standalone.
+
 # Angular16Crud
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.2.
@@ -24,4 +28,10 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 
 ## Further help
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.\
+
+## Credit:
+
+This project is based on the CRUD 16 tutorial by Tien Nguyen on tienbku's Github website. I followed this CRUD Angular 16 tutorial but made some modifications to suit my specific requirements. You can find the original tutorial here:
+(https://github.com/bezkoder/angular-16-crud-example.git).
+
